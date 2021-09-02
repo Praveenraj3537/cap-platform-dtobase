@@ -10,7 +10,6 @@ export class DtoBase {
   ModifiedBy: number
   RowVersion: number
   CreationDate: Date
-
   ModifiedDate: Date
 
   
